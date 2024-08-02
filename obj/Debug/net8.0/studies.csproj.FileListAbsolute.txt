@@ -12,3 +12,4 @@ c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\refint\stud
 c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.pdb
 c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.genruntimeconfig.cache
 c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\ref\studies.dll
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.sourcelink.json
