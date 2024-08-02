@@ -1,0 +1,14 @@
+c:\Users\kauan\Documents\code\meus\w3school\studies\bin\Debug\net8.0\studies.exe
+c:\Users\kauan\Documents\code\meus\w3school\studies\bin\Debug\net8.0\studies.deps.json
+c:\Users\kauan\Documents\code\meus\w3school\studies\bin\Debug\net8.0\studies.runtimeconfig.json
+c:\Users\kauan\Documents\code\meus\w3school\studies\bin\Debug\net8.0\studies.dll
+c:\Users\kauan\Documents\code\meus\w3school\studies\bin\Debug\net8.0\studies.pdb
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.AssemblyInfoInputs.cache
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.AssemblyInfo.cs
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.csproj.CoreCompileInputs.cache
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.dll
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\refint\studies.dll
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.pdb
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\studies.genruntimeconfig.cache
+c:\Users\kauan\Documents\code\meus\w3school\studies\obj\Debug\net8.0\ref\studies.dll
