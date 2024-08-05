@@ -13,6 +13,7 @@ namespace StudyProject
                 Console.WriteLine(Math.Min(w, x));
                 Console.WriteLine(Math.Abs(y));
                 Console.WriteLine(Math.Round(y));
+                Console.WriteLine(Math.Sqrt(y));
                 
         }
 
