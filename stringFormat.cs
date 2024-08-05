@@ -4,9 +4,13 @@ namespace StudyProject
     {
         public static void DemonstrateSrtingFormat()
         {
-           string text = "aaaaaa";
+              Console.WriteLine("digite o seu nome");
 
-           Console.WriteLine(text.Length);
+                string? name =  Console.ReadLine();
+                Console.WriteLine($"seu nome possui {name.Length} digitos");
+
+                Console.WriteLine($"esse eh o seu nome em caixa alta \"{name.ToUpper()}\"");
+                Console.WriteLine($"esse eh o seu nome em caixa baixa \"{name.ToLower()}\"");
         }
     }
 }

@@ -13,9 +13,14 @@ namespace StudyProject
 
                 Console.WriteLine(Convert.ToDouble(num1));
 
-                Console.Write(text+ "stranger! I'm "+num1+" years old" );
+                Console.WriteLine(text+ "stranger! I'm "+num1+" years old" );
                 text = "coding";
                 Console.WriteLine($"i enjoy {text} and the number {num2} is {A} double!, i`m currently using visual studio, if i s{A}id i prefer it, it would be {vscode}");
+                
+                string final = string.Concat(A, text);
+
+                Console.WriteLine(text[0]);
+                Console.WriteLine(text.IndexOf("g"));
         }
     }
 }

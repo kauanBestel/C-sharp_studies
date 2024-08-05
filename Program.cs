@@ -8,6 +8,8 @@ namespace StudyProject
         {
             // Chamar diferentes demonstrações de estudo
             Variables.DemonstrateVariables();
+            //IMath.DemonstrateMath();
+            //InputVariables.DemonstrateInputVariables();
             
         }
     }
