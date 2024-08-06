@@ -10,7 +10,7 @@ namespace StudyProject
             {
                 case 1:
                     Console.WriteLine("monday");
-                    break;
+                    break;//ignora o resto do codigo e para nele caso atenda a necessidade
                 case 2:
                     Console.WriteLine("tuesday");
                     break;
@@ -26,7 +26,7 @@ namespace StudyProject
                 case 6:
                     Console.WriteLine("saturday");
                     break;
-                case 7:
+                default:
                     Console.WriteLine("sunday"); 
                     break;
 
