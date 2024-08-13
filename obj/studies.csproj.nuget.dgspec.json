@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj": {}
+    "c:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj": {
+    "c:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj",
+        "projectUniqueName": "c:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj",
         "projectName": "studies",
-        "projectPath": "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj",
+        "projectPath": "c:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj",
         "packagesPath": "C:\\Users\\kauan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\obj\\",
+        "outputPath": "c:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
