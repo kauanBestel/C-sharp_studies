@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj": {}
+    "C:\\Users\\kauan\\Documents\\C sharp\\C-sharp_studies\\studies.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj": {
+    "C:\\Users\\kauan\\Documents\\C sharp\\C-sharp_studies\\studies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj",
+        "projectUniqueName": "C:\\Users\\kauan\\Documents\\C sharp\\C-sharp_studies\\studies.csproj",
         "projectName": "studies",
-        "projectPath": "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\studies.csproj",
+        "projectPath": "C:\\Users\\kauan\\Documents\\C sharp\\C-sharp_studies\\studies.csproj",
         "packagesPath": "C:\\Users\\kauan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kauan\\Documents\\code\\meus\\w3school\\studies\\obj\\",
+        "outputPath": "C:\\Users\\kauan\\Documents\\C sharp\\C-sharp_studies\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\kauan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -61,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
