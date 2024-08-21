@@ -1,6 +1,6 @@
 using System;
 
-class Program
+class Programa
 {
     static void checkage(int age)
     {
